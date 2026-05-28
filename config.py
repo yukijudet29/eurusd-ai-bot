@@ -1,3 +1,3 @@
-API_KEY = os.getenv("API_KEY")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+API_KEY = "c6ffd2fe2baf4af9bfff03dbcbd6c2ce"
+BOT_TOKEN = "8850061308:AAEZgV9cIRIjUouTtntEKV2fpAKMgqS6uHU"
+CHAT_ID = "8783365374"
